@@ -1,4 +1,8 @@
 project/
 target/
+bin/
 
+.cache
+.classpath
+.project
 
